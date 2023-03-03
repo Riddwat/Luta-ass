@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    height: 10px;
+
+}
+h1{
+    color: aqua;
+}
+
+#heading{
+    background-color: aqua;
+    color: green;
+}
+
+p{
+    color: rgb(169, 30, 137);
+    font-size: 30px
+    
+}
